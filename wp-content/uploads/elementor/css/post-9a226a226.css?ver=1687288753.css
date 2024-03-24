@@ -6,7 +6,7 @@
   .elementor-element.elementor-element-a6fe428
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #468fff5;
+  background-color: #468fff;
 }
 .elementor-9 .elementor-element.elementor-element-a6fe428 {
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -477,7 +477,7 @@
   nav.hfe-dropdown
   .menu-item
   a.hfe-sub-menu-item {
-  background-color: #468fff5;
+  background-color: #468fff;
 }
 .elementor-9 .elementor-element.elementor-element-557ed864 ul.sub-menu {
   width: 220px;
